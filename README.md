@@ -9,6 +9,7 @@ Some services are not done yet, there's still a LOT todo.
 - `category`, `transaction` and `bff` services are all here: https://github.com/ArthurWerle/financer-services
 - Logs service can be found here: https://github.com/ArthurWerle/logging
 - Microservice to send monthly reports with my personal finances data: https://github.com/ArthurWerle/financer-reports
+- Service that runs weekly backups of my database: https://github.com/ArthurWerle/financer-backup-service
 - The client-side: https://github.com/ArthurWerle/financer
 - Analytics server to get insights of my own home server database and expose it to all my home server applications: https://github.com/ArthurWerle/analytics
 - Lite version https://github.com/ArthurWerle/financer-lite
